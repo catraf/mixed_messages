@@ -1,6 +1,6 @@
 # Mixed Messages
 
-A simple app that generates a random message.
+A simple app that generates a random catchphrase.
 
 ## Prerequisites
 
@@ -14,15 +14,13 @@ In your terminal run this in the folder where the mixed_messages.js file lives.
 node mixed_messages.js
 ```
 
-## Development Ideas
+## Current Version
 
-*A place to keep ideation and thoughts*
+When you run the program it will generate a catchphrase made of three random parts.
 
-This is a catch phrase generator.
+## Roadmap
 
-Let's make it a little bit more interesting...
+* Generate a random catchphrase structure, then randomly generate a catchphrase based on that structure
 
-* First, it randomly generates a catchphrase structure
 
-* Then, it randomly generates a catchphrase based on that structure.
 
